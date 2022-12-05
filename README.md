@@ -1,4 +1,4 @@
-pswd_1122 : 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
+pswd_1122 : 
 
 git status
 git branch 
